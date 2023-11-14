@@ -3,13 +3,12 @@
 #cvSection("Projects & Associations")
 
 #cvEntry(
-  title: [Volunteer Data Analyst],
-  society: [ABC Nonprofit Organization],
-  date: [2019 - Present],
-  location: [New York, NY],
+  title: [Treasurer & IT Manager],
+  society: [Student Council of the Department of Computer Science (CaDCC)],
+  date: [2023 - Present],
+  location: [Santiago, Chile],
   description: list(
-    [Analyze donor and fundraising data to identify trends and opportunities for growth],
-    [Create data visualizations and dashboards to communicate insights to the board of directors],
-    [Collaborate with other volunteers to develop and implement data-driven strategies]
+    [Treasurer only in the period 2023.],
+    [Managing CaDCC's own server and it's services.],
   )
 )
