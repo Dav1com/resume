@@ -3,8 +3,15 @@
 #cvSection("Archievements")
 
 #cvHonor(
+  date: [2024],
+  title: [Best Application],
+  location: [Santiago, Chile],
+  issuer: [Verifiable Randomness Hackathon by Laboratory of Applied Cryptography and Cybersecurity (CLCERT)],
+)
+
+#cvHonor(
   date: [2022],
-  title: [Place ??/??],
+  title: [Place 21/105],
   location: [Coquimbo, Chile],
   issuer: [International Collegiate Programming Contest South America/South Finals],
 )

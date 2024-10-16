@@ -5,10 +5,10 @@
 #cvEntry(
   title: [Treasurer & IT Manager],
   society: [Student Council of the Department of Computer Science (CaDCC)],
-  date: [2023 - Present],
+  date: [2023],
   location: [Santiago, Chile],
   description: list(
-    [Treasurer only in the period 2023.],
-    [Managing CaDCC's own server and it's services.],
+    [Managing the organization founds and public founds provided by the department.],
+    [Managing CaDCC's own server and its services.],
   )
 )

@@ -9,20 +9,20 @@
 
 #cvSkill(
   type: [Programming],
-  info: [Java #hBar() Groovy #hBar() C/C++ #hBar() OCaml #hBar() Python (Pandas, NumPy, scipy) #hBar() C\# #hBar() F\# ]
+  info: [Java, Groovy, Scala #hBar() C/C++ #hBar() OCaml, F\#, F\* #hBar() Python ]
 )
 
 #cvSkill(
   type: [Frameworks],
-  info: [Spring #hBar() DJango #hBar() Apache Camel]
+  info: [Spring #hBar() DJango #hBar() Apache Camel #hBar() Sturdy]
 )
 
 #cvSkill(
   type: [Miscellaneous],
-  info: [Linux power user #hBar() Formal Language Semantics #hBar() Typst #hBar() Git]
+  info: [Linux power user #hBar() Formal Language Semantics #hBar() Static Analysis #hBar() Typst #hBar() Coq #hBar() Git]
 )
 
 #cvSkill(
   type: [Personal Interests],
-  info: [Reading #hBar() Cooking #hBar() Programming Languages]
+  info: [Reading #hBar() Videogames #hBar() Anime #hBar() Programming Languages]
 )

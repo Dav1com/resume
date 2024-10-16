@@ -15,14 +15,14 @@
   //homepage: "jd.me.org",
   //orcid: "0000-0000-0000-0000",
   //researchgate: "John-Doe",
-  extraInfo: [],
+  //extraInfo: [],
 )
 
 
 /* Language-specific */
 // Add your own languages while the keys must match the varLanguage variable
 #let headerQuoteInternational = (
-  "": [22 years old Engineering in Computer Science student at University of Chile, and self‑taught developer. Zealous about software engineering from early age, currently interested in software development, formal language semantics, systems architecture and education.],
+  "": [23 years old student of Engineering in Computer Science at University of Chile, and self-taught developer, is looking for an intership starting in January. Zealous about software engineering from an early age, currently interested in software development, static analysis, proof assistants and education.],
   "en": [Experienced Data Analyst looking for a full time job starting from now],
   "es": []
 )
@@ -47,7 +47,7 @@
 )
 
 /* Layout Setting */
-#let awesomeColor = "skyblue" // Optional: skyblue, red, nephritis, concrete, darknight
+#let awesomeColor = "nephritis" // Optional: skyblue, red, nephritis, concrete, darknight
 
 #let profilePhoto = "../src/avatar.png" // Leave blank if profil photo is not needed
 
