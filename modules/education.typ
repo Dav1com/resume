@@ -7,6 +7,6 @@
     society: [Faculty of Physical and Mathematical Sciences, University of Chile],
     date: [Mar 2020 - Present],
     location: [Santiago, Chile],
-    //logo: "../src/logos/ucla.png",
+    logo: "../img/uchile.svg",
     description: list()
 )
