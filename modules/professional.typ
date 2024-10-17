@@ -18,7 +18,7 @@
 )
 
 #cvEntry(
-  title: [Supervized Project],
+  title: [Supervised Project],
   society: [University of Chile],
   date: [Ago 2024 - Dec 2024],
   location: [Santiago, Chile],
